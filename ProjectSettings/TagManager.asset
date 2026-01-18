@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Gift
+  - mask
+  - GameManager
+  - LevelManager
+  - UpperPanel
+  - airPlane
+  - Item
+  - Major
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGElements
+    uniqueID: 2588765385
+    locked: 0
+  - name: Enemy
+    uniqueID: 1694301671
+    locked: 0
+  - name: Item
+    uniqueID: 4127601469
+    locked: 0
+  - name: Elf
+    uniqueID: 65546155
+    locked: 0
+  - name: Light
+    uniqueID: 1468387495
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4049900149
+    locked: 0
+  - name: Arrow
+    uniqueID: 1489633561
+    locked: 0
+  - name: UI
+    uniqueID: 3060505731
+    locked: 0
+  m_RenderingLayers:
+  - Default
